@@ -11,5 +11,6 @@ int main()
 	int a;
 	int b;
 	cin >> a >> b;
-	cout << (a/b*b + a%b == a) << "\n"; //Ausgabe gibt true "1" aus
+	cout << (a/b*b + a%b == a)
+	<< endl; //Ausgabe gibt true "1" aus
 }
