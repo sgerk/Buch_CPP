@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Geben Sie einen Gleitkomaert ein: ";
+	cout << "Geben Sie zwei Zahlen ein: ";
 	int a;
 	int b;
 	cin >> a >> b;
